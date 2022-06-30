@@ -21,6 +21,7 @@
 - MySQL
 - spring
 - photoshop cc
+- AWS EC2 RDS
 
 ## 📌 주요 세부 산출물 문서 기록
 - [x] 1) 메뉴설계도
